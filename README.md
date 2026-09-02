@@ -8,7 +8,7 @@
 - 🔭 Currently working on tasks and workflows as an **AI/ML Intern at Evolvix**.
 - 🌱 Learning and exploring advanced Machine Learning models, NLP, and Computer Vision.
 - 💡 Interested in solving real-world problems through data-driven approaches.
-- 📬 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-username) *(Apna link replace karein)*
+- 📬 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/ali-murtaza-5bb203197/)*
 
 ---
 
